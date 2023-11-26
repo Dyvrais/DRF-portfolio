@@ -1,0 +1,34 @@
+[
+    {
+      "image": "https://i.postimg.cc/fbLVYpbS/photo-2023-10-16-19-28-03.jpg",
+      "name": "Crypto Kingdom",
+      "github": "https://github.com/Dyvrais/cripto-kingdom",
+      "live": "https://crypto-kingdom-cz624rapd-dyvrais-projects.vercel.app/",
+      "desc": "Website to help you keep track of the latests updates in the crypto market, uses the free CoinGecko API to get the most recent data available.",
+      "tools": ["React", "Tailwind"]
+    },
+    {
+      "image": "https://i.postimg.cc/FHGfdNhQ/photo-2023-10-16-19-27-27.jpg",
+      "name": "Weather Report App",
+      "github": "https://github.com/Dyvrais/weatherapp-js",
+      "live": "https://dyvrais.github.io/weatherapp-js/",
+      "desc": "Easy to use web app to get the current weather of any city in the world. Powered by the OpenWeather API, it displays the different values of temperature, wind speed, etc. Available in celsius or farenheit and in metric or imperial system.",
+      "tools": ["HTML", "CSS", "Javascript"]
+    },
+    {
+      "image": "https://i.postimg.cc/Bnrmv4N0/image.png",
+      "name": "PokéDex",
+      "github": "https://github.com/Dyvrais/PokeAPI",
+      "live": "",
+      "desc": "Web app that displays the basic info about the first 151 Pokemon from the Kanto region, displaying their types, abilities, names, Dex number and sprites. Powered by PokéAPI",
+      "tools": ["React", "Tailwind"]
+    },
+    {
+      "image": "https://i.postimg.cc/FHGfdNhQ/photo-2023-10-16-19-27-27.jpg",
+      "name": "TBD",
+      "github": "",
+      "live": "",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque accumsan arcu sit amet tortor elementum efficitur. Phasellus hendrerit consequat mi, sit amet venenatis enim tristique.",
+      "tools": ["-"]
+    }
+  ]

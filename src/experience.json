@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "position": "Front-end Developer",
+        "company": "Fiverr",
+        "contract": "Freelance",
+        "duration": "Apr 2023 - Present",
+        "location": "Remote"
+    },
+    {
+        "id": 2,
+        "position": "Information Technology Intern",
+        "company": "Investigación y Desarrollo, C.A (Indesca)",
+        "contract": "Internship",
+        "duration": "May 2022 - Jul 2022",
+        "location": "Maracaibo, Zulia, Venezuela"
+    }
+]
