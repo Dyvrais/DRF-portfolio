@@ -36,7 +36,8 @@ export default function Content() {
             </h2>
             <div className="flex items-center">
               <a
-                href="../CV-DRF.docx"
+                href="../Resume-DRF.pdf"
+                target="_blank"
                 className="text-sm md:text-base border-2 border-warblue hover:border-[#15397ab3] hover:bg-[#15397ab3] hover:text-white dark:bg-blackyel dark:border-waryellow dark:hover:border-[#ffc129b3] dark:hover:bg-[#ffc129b3] dark:hover:text-black rounded-lg py-2 px-3 icon"
               >
                 <FontAwesomeIcon icon={faFile} /> Resume
